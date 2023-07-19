@@ -373,3 +373,7 @@ If you know which domains you will connect to add:
     </dict>
 </dict>
 ```
+
+## 參考修改
+
+- iOS 原生升版 https://github.com/thijskuilman/pusher_client/commit/d95d362a74d3e0602e8959b3c8b992ec57adba24
